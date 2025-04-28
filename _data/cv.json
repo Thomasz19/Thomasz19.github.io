@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Thomas Zoldowski",
+    "email": "zoldowst@mail.gvsu.edu",
+    "phone": "734-347-6720",
+    "website": "https://Thomasz19.github.io",
+    "summary": "Currently studing at Grand Valley State University",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "address": "10127 Laker Ln.",
+      "postalCode": "49401",
+      "city": "Allendale",
       "countryCode": "US",
       "region": ""
     },
@@ -33,29 +33,11 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Grand Valley State University",
+      "area": "Computer Engineering, B.S.E.",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
