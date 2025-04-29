@@ -1,7 +1,7 @@
 ---
 title: "Microcontroller-Based Vending Machine"
 collection: publications
-category: projects
+category: manuscripts
 permalink: /project/2022-12-12-vending-machine
 excerpt: 'An embedded vending machine built on STM32F446RE with coin detection, keypad input, servo-based dispensing, and admin features.'
 date: 2022-12-12
