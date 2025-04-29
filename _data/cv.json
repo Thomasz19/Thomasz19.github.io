@@ -91,28 +91,27 @@
       "name": "Autonomous Line Following Robot",
       "publisher": "C Programming",
       "releaseDate": "2022-5-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
       "name": "Vending Machine",
       "publisher": "C Programming",
       "releaseDate": "2022-12-12",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "website": "http://academicpages.github.io/files/Final Project Report226.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
       "name": "Karaoke Machine",
       "publisher": "Analog Circuit Design",
       "releaseDate": "2024-12-04",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "http://academicpages.github.io/files/EGR315_Final_Project_Report.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
       "name": "Digital Monster Pet",
       "publisher": "Programmer and Digital Circuit Design",
       "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "website": "http://academicpages.github.io/files/EGR326 Final Project Requirments V2.pdf",
       "summary": "This paper is about fixing template issue #693."
     }
   ],
