@@ -6,7 +6,7 @@ permalink: /project/2024-12-04-karaoke-machine
 excerpt: 'An analog karaoke machine system designed from scratch using op-amps, power amplifiers, microphones, and audio mixing circuits.'
 date: 2024-12-04
 venue: 'EGR 315 Final Project, Grand Valley State University'
-slidesurl: ''
+#slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Thomas Zoldowski, Ben Ali. (2024). "Karaoke Machine Audio System." <i>GVSU EGR 315 Final Report</i>.'
 ---

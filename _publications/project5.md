@@ -1,13 +1,13 @@
 ---
 title: "Shot Counter with Custom PCB and Embedded System"
 collection: publications
-category: projects
+category: manuscripts
 permalink: /project/2025-04-18-shot-counter
 excerpt: 'A compact shot tracking device built with a custom 6-layer PCB, STM32 microcontroller, piezo knock sensor, and OLED display.'
 date: 2025-04-18
 venue: 'EGR 436 Design Project, Grand Valley State University'
-slidesurl: ''
-paperurl: ''
+#slidesurl: ''
+#paperurl: ''
 citation: 'Thomas Zoldowski, Lucas Meyers. (2025). "Shot Counter with Custom PCB and Embedded System." <i>GVSU EGR 436 Final Report</i>.'
 ---
 

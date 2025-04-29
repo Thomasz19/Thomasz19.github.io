@@ -1,12 +1,12 @@
 ---
 title: "Digital Monster Pet Embedded System"
 collection: publications
-category: projects
+category: manuscripts
 permalink: /project/2024-11-17-digital-monster-pet
 excerpt: 'An interactive embedded system simulating a virtual pet with emotional states, health tracking, and real-time responses using STM32 microcontroller.'
 date: 2024-11-17
 venue: 'EGR 326 Final Project, Grand Valley State University'
-slidesurl: ''
+#slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper4.pdf'
 citation: 'Thomas Zoldowski, Emmett Topp. (2024). "Digital Monster Pet Embedded System." <i>GVSU EGR 326 Final Report</i>.'
 ---
