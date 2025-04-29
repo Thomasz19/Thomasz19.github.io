@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /projects/project1
 excerpt: 'Created an autonomous robot that can follow a line based on only sensory input using an Arduino Uno'
-date: 2022-20-10
+date: 2022-10-20
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
