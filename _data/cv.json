@@ -10,7 +10,7 @@
       "postalCode": "49401",
       "city": "Allendale",
       "countryCode": "US",
-      "region": ""
+      "region": "MI"
     },
     "profiles": [
       {
@@ -35,7 +35,7 @@
   "skills": [
   {
     "name": "Programming Languages",
-    "keywords": ["Embedded C", "Python", "Verilog"]
+    "keywords": ["Embedded C", "Python", "Verilog", "VHDL"]
   },
   {
     "name": "Embedded Systems & Tools",
