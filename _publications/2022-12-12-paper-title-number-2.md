@@ -9,6 +9,15 @@ venue: 'EGR 226 Final Project, Grand Valley State University'
 #slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Thomas Zoldowski. (2022). "Microcontroller-Based Vending Machine." <i>GVSU EGR 226 Final Report</i>.'
+skills_used:
+  - STM32F446RE Microcontroller
+  - Embedded C
+  - LCD and Keypad Integration
+  - Servo Motor Control
+  - State Machine Design
+  - Infrared Coin Detection
+  - RGB LED Indicator
+  - CAD and 3D Printing
 ---
 
 This project involved the design and implementation of a functional vending machine using an STM32F446RE microcontroller. The system supported real-world vending interactions including coin detection via infrared sensors, product selection using a 4x3 matrix keypad, and servo motor-controlled product dispensing.

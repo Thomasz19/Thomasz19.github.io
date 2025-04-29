@@ -11,6 +11,14 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+{% if post.skills_used %}
+  <p><strong>Skills Used:</strong></p>
+  <ul>
+    {% for skill in post.skills_used %}
+      <li>{{ skill }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
