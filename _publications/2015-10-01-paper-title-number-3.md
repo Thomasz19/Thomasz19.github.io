@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Karaoke Machine Audio System"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+category: projects
+permalink: /project/2024-12-04-karaoke-machine
+excerpt: 'An analog karaoke machine system designed from scratch using op-amps, power amplifiers, microphones, and audio mixing circuits.'
+date: 2024-12-04
+venue: 'EGR 315 Final Project, Grand Valley State University'
+slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Thomas Zoldowski, Ben Ali. (2024). "Karaoke Machine Audio System." <i>GVSU EGR 315 Final Report</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This project involved the design and implementation of a fully functional analog karaoke machine. The system accepted two microphone inputs and one auxiliary input, which were mixed using summing amplifiers and output to stereo speakers through high-power LM1875 audio amplifiers.
+
+A pan potentiometer allowed users to control the balance between left and right speakers, while volume and mic gain knobs enabled audio control. The microphone preamps used 2N3904 BJT transistors to ensure clean and adjustable signal amplification. All circuits were powered via a wall outlet and integrated into a custom-built fixture housing speakers, controls, and internal circuitry.
+
+Key testing included frequency response, voltage gain, and speaker clarity, with final output exceeding 7W per channel. The system demonstrated a strong understanding of analog circuit design, signal processing, and user-centered hardware integration.

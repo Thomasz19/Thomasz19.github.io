@@ -1,13 +1,18 @@
 ---
-title: "Paper Title Number 4"
+title: "Digital Monster Pet Embedded System"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: projects
+permalink: /project/2024-11-17-digital-monster-pet
+excerpt: 'An interactive embedded system simulating a virtual pet with emotional states, health tracking, and real-time responses using STM32 microcontroller.'
+date: 2024-11-17
+venue: 'EGR 326 Final Project, Grand Valley State University'
+slidesurl: ''
+paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+citation: 'Thomas Zoldowski, Emmett Topp. (2024). "Digital Monster Pet Embedded System." <i>GVSU EGR 326 Final Report</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Digital Monster Pet is an autonomous embedded system built on the STM32F446 Nucleo board that simulates a virtual pet capable of reacting to user interaction, tracking its health, and expressing emotional states. The system integrates multiple hardware peripherals, including a graphic LCD, Hall effect sensor, proximity sensor, real-time clock (RTC), rotary encoder, stepper motor, and speaker.
+
+Users interact with the pet by petting it (via magnet and Hall sensor), feeding it with a button, or setting its internal clock through a menu-driven interface. The LCD displays animated emotional states like Happy, Hungry, Sleeping, and Content, while system logic manages health degradation, alerts, and memory retention across power cycles using EEPROM and RTC.
+
+The project emphasized real-time behavior, user interface design, sensor integration, and power-conscious microcontroller programming. It demonstrated full-cycle embedded system design from hardware wiring to software logic and verification, all within budget and safety constraints.
