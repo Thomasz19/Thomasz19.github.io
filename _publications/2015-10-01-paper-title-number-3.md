@@ -1,7 +1,7 @@
 ---
 title: "Karaoke Machine Audio System"
 collection: publications
-category: projects
+category: manuscripts
 permalink: /project/2024-12-04-karaoke-machine
 excerpt: 'An analog karaoke machine system designed from scratch using op-amps, power amplifiers, microphones, and audio mixing circuits.'
 date: 2024-12-04
