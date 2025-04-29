@@ -32,7 +32,25 @@
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+  "Embedded C",
+  "Python",
+  "Ladder Logic",
+  "STM32 Microcontrollers",
+  "FPGA Design (Spartan-7, Vivado)",
+  "Verilog",
+  "UART, I2C, SPI Protocols",
+  "PLC Programming (Logix5000, Logix500)",
+  "VTSCADA",
+  "FactoryTalk HMI Design",
+  "FANUC and ABB Robot Programming",
+  "Circuit Design and Analysis",
+  "3D Modeling (SOLIDWORKS)",
+  "PCB Design and Schematic Capture",
+  "Altium Designer",
+  "Linux Terminal and Shell Scripting",
+  "Version Control (Git)"
+  ],
   "languages": [],
   "interests": [],
   "references": [],
