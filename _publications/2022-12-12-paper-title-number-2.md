@@ -1,14 +1,18 @@
 ---
-title: "Vending Machine"
+title: "Microcontroller-Based Vending Machine"
 collection: publications
-category: manuscripts
-permalink: /publication/project2
-excerpt: 'Created a vending machine software that can accept quarters, input from a 4x3 keypad and display information to a 4x16 LCD screen using a STM32F446RE Micro Controller.'
+category: projects
+permalink: /project/2022-12-12-vending-machine
+excerpt: 'An embedded vending machine built on STM32F446RE with coin detection, keypad input, servo-based dispensing, and admin features.'
 date: 2022-12-12
-#venue: 'Journal 1'
-#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/Final Project Report226.pdf'
-#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'EGR 226 Final Project, Grand Valley State University'
+#slidesurl: ''
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Thomas Zoldowski. (2022). "Microcontroller-Based Vending Machine." <i>GVSU EGR 226 Final Report</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This project involved the design and implementation of a functional vending machine using an STM32F446RE microcontroller. The system supported real-world vending interactions including coin detection via infrared sensors, product selection using a 4x3 matrix keypad, and servo motor-controlled product dispensing.
+
+An LCD interface provided real-time user feedback, while an RGB LED indicated status (e.g., ready, error, low inventory). The embedded firmware, written in C, managed a state machine for input handling, fund validation, inventory tracking, and administrative access secured by a PIN code.
+
+Additional features included internal temperature monitoring and a hidden admin menu for restocking and cash tracking. The enclosure was custom-designed using CAD and 3D printing. This project demonstrated strong skills in embedded software, sensor integration, and user interface design.
