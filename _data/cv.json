@@ -33,24 +33,47 @@
     }
   ],
   "skills": [
-  "Embedded C",
-  "Python",
-  "Ladder Logic",
-  "STM32 Microcontrollers",
-  "FPGA Design (Spartan-7, Vivado)",
-  "Verilog",
-  "UART, I2C, SPI Protocols",
-  "PLC Programming (Logix5000, Logix500)",
-  "VTSCADA",
-  "FactoryTalk HMI Design",
-  "FANUC and ABB Robot Programming",
-  "Circuit Design and Analysis",
-  "3D Modeling (SOLIDWORKS)",
-  "PCB Design and Schematic Capture",
-  "Altium Designer",
-  "Linux Terminal and Shell Scripting",
-  "Version Control (Git)"
+  {
+    "name": "Programming Languages",
+    "keywords": ["Embedded C", "Python", "Verilog"]
+  },
+  {
+    "name": "Embedded Systems & Tools",
+    "keywords": [
+      "STM32 Microcontrollers",
+      "UART, I2C, SPI Protocols",
+      "Keil uVision",
+      "Xilinx Vivado",
+      "Altium Designer"
+    ]
+  },
+  {
+    "name": "Hardware & Design",
+    "keywords": [
+      "Circuit Design and Analysis",
+      "PCB Design and Schematic Capture",
+      "3D Modeling (SOLIDWORKS)"
+    ]
+  },
+  {
+    "name": "Controls & Automation",
+    "keywords": [
+      "Ladder Logic",
+      "PLC Programming (Logix5000, Logix500)",
+      "VTSCADA",
+      "FactoryTalk HMI Design",
+      "FANUC and ABB Robot Programming"
+    ]
+  },
+  {
+    "name": "Tools & Practices",
+    "keywords": [
+      "Linux Terminal and Shell Scripting",
+      "Version Control (Git)"
+    ]
+  }
   ],
+
   "languages": [],
   "interests": [],
   "references": [],
