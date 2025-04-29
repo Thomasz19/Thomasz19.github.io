@@ -86,7 +86,7 @@
       "description": "Designed and implemented a fully functional vending machine using an STM32F446RE microcontroller. Integrated an LCD interface, keypad input, coin detection via infrared sensors, and servo motors for product dispensing. Developed embedded C firmware to handle item selection, fund validation, stock tracking, and administrative access (via PIN). Included advanced features such as an RGB LED status indicator, internal temperature monitoring, and administrative menu for cash and inventory management. Custom-designed and fabricated a machine body using CAD and 3D printing tools, applying a structured approach to system integration, interface design, and hardware control."
     }
   ],
-  "Projects": [
+  "publications": [
     {
       "name": "Autonomous Line Following Robot",
       "publisher": "C Programming",
