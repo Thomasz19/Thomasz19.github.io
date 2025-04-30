@@ -7,7 +7,7 @@ excerpt: 'An interactive embedded system simulating a virtual pet with emotional
 date: 2024-11-17
 venue: 'EGR 326 Final Project, Grand Valley State University'
 #slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper4.pdf'
+paperurl: 'http://academicpages.github.io/files/EGR326Project.pdf'
 citation: 'Thomas Zoldowski, Emmett Topp. (2024). "Digital Monster Pet Embedded System." <i>GVSU EGR 326 Final Report</i>.'
 ---
 

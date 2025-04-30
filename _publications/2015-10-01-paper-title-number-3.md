@@ -7,7 +7,7 @@ excerpt: 'An analog karaoke machine system designed from scratch using op-amps, 
 date: 2024-12-04
 venue: 'EGR 315 Final Project, Grand Valley State University'
 #slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/EGR315Project.pdf'
 citation: 'Thomas Zoldowski, Ben Ali. (2024). "Karaoke Machine Audio System." <i>GVSU EGR 315 Final Report</i>.'
 skills_used:
   - Analog Circuit Design
@@ -15,7 +15,6 @@ skills_used:
   - Power Amplifiers (LM1875)
   - Microphone Preamp Design (2N3904)
   - Audio Signal Mixing
-  - AC-to-DC Power Conversion
   - Frequency Response Testing
   - PCB Schematic Design
   - Signal Noise Filtering
