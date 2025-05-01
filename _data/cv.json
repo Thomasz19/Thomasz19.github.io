@@ -20,7 +20,36 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+  {
+    "company": "JR Automation",
+    "position": "Controls Engineering Co-op",
+    "website": "https://www.jrautomation.com",
+    "startDate": "2023-05-01",
+    "endDate": null,
+    "summary": "Worked as a co-op in the Controls Engineering department, contributing to robotic and automation solutions for industrial clients.",
+    "highlights": [
+      "Designed and implemented HMI interfaces using FactoryTalk View SE.",
+      "Programmed FANUC and ABB industrial robots for various manufacturing tasks.",
+      "Developed and tested PLC logic for systems including laser etching automation.",
+      "Collaborated with cross-disciplinary teams to bring automated cells from concept to commissioning."
+    ]
+  },
+  {
+    "company": "Pac Engineering LLC",
+    "position": "Automation Intern",
+    "website": "https://pac-llc.com",
+    "startDate": "2022-05-01",
+    "endDate": "2022-08-31",
+    "summary": "Supported the design, documentation, and testing of SCADA and PLC systems for municipal and industrial clients.",
+    "highlights": [
+      "Built a high-performance SCADA system using VTScada based on existing PLC logic.",
+      "Programmed Rockwell PLCs using Ladder Logic in RSLogix500 and Studio 5000.",
+      "Created O&M documentation for client handoff and commissioning.",
+      "Tested and debugged PLC control panels against electrical schematics and field hardware."
+    ]
+  }
+  ],
   "education": [
     {
       "institution": "Grand Valley State University",
@@ -77,15 +106,6 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "portfolio": [
-    {
-      "name": "Autonomous Line Following Robot",
-      "category": "C Programming",
-      "date": "2022-5-01",
-      "url": "",
-      "description": "Designed and implemented a fully functional vending machine using an STM32F446RE microcontroller. Integrated an LCD interface, keypad input, coin detection via infrared sensors, and servo motors for product dispensing. Developed embedded C firmware to handle item selection, fund validation, stock tracking, and administrative access (via PIN). Included advanced features such as an RGB LED status indicator, internal temperature monitoring, and administrative menu for cash and inventory management. Custom-designed and fabricated a machine body using CAD and 3D printing tools, applying a structured approach to system integration, interface design, and hardware control."
-    }
-  ],
   "publications": [
   {
     "name": "Autonomous Line Following Robot",
