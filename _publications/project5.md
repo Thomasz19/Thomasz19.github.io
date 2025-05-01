@@ -7,7 +7,7 @@ excerpt: 'A compact shot tracking device built with a custom 6-layer PCB, STM32 
 date: 2025-04-18
 venue: 'EGR 436 Design Project, Grand Valley State University'
 #slidesurl: ''
-#paperurl: ''
+paperurl: 'http://academicpages.github.io/files/EGR436Project'
 citation: 'Thomas Zoldowski, Lucas Meyers. (2025). "Shot Counter with Custom PCB and Embedded System." <i>GVSU EGR 436 Final Report</i>.'
 ---
 
