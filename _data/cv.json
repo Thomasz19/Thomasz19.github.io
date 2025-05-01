@@ -25,7 +25,7 @@
     "company": "JR Automation",
     "position": "Controls Engineering Co-op",
     "website": "https://www.jrautomation.com",
-    "startDate": "2023-05-01",
+    "startDate": "2023/05/01",
     "endDate": null,
     "summary": "Worked as a co-op in the Controls Engineering department, contributing to robotic and automation solutions for industrial clients.",
     "highlights": [
@@ -37,10 +37,10 @@
   },
   {
     "company": "Pac Engineering LLC",
-    "position": "Automation Intern",
+    "position": "Controls Intern",
     "website": "https://pac-llc.com",
-    "startDate": "2022-05-01",
-    "endDate": "2022-08-31",
+    "startDate": "2022/05/01",
+    "endDate": "2022/08/31",
     "summary": "Supported the design, documentation, and testing of SCADA and PLC systems for municipal and industrial clients.",
     "highlights": [
       "Built a high-performance SCADA system using VTScada based on existing PLC logic.",
@@ -152,51 +152,7 @@
     "award": "Selected for Project Day showcase (1 of 2 projects selected by class vote)."
   }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ]
+  "presentations": [],
+  "teaching": []
   
 }
