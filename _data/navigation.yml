@@ -11,11 +11,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Education"
-    url: /education/    
+  #- title: "Education"
+  #  url: /education/    
 
-  - title: "Industry"
-    url: /industry/    
+  #- title: "Industry"
+  #  url: /industry/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
