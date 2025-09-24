@@ -21,6 +21,27 @@ skills_used:
   - CAD and Speaker Enclosure Design
 ---
 
+<div class="pdf-embed">
+  <object
+    data="{{ '/files/Karaoke_poster.pdf' | relative_url }}"
+    type="application/pdf"
+    width="100%"
+    height="900">
+    <!-- Fallback (only shown if the browser can't render PDFs) -->
+    <p>Your browser can’t display PDFs inline.</p>
+  </object>
+</div>
+
+<style>
+/* Optional: responsive tweak using aspect-ratio (modern browsers) */
+.pdf-embed object {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 8.5 / 11; /* approx letter */
+  max-height: 90vh;       /* keep it on-screen */
+}
+</style>
+
 This project involved the design and implementation of a fully functional analog karaoke machine. The system accepted two microphone inputs and one auxiliary input, which were mixed using summing amplifiers and output to stereo speakers through high-power LM1875 audio amplifiers.
 
 A pan potentiometer allowed users to control the balance between left and right speakers, while volume and mic gain knobs enabled audio control. The microphone preamps used 2N3904 BJT transistors to ensure clean and adjustable signal amplification. All circuits were powered via a wall outlet and integrated into a custom-built fixture housing speakers, controls, and internal circuitry.
