@@ -25,8 +25,8 @@ skills_used:
   <object
     data="{{ '/files/Karaoke_poster.pdf' | relative_url }}"
     type="application/pdf"
-    width="100%"
-    height="900">
+    width="80%"
+    height="400">
     <!-- Fallback (only shown if the browser can't render PDFs) -->
     <p>Your browser can’t display PDFs inline.</p>
   </object>
