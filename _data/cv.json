@@ -4,9 +4,9 @@
     "email": "zoldowst@mail.gvsu.edu",
     "phone": "734-347-6720",
     "website": "https://Thomasz19.github.io",
-    "summary": "Find a Part-Time summer job in either software development or PCB design",
+    "summary": "Embedded systems–focused Computer Engineering student experienced with STM32 development in C and rapid prototyping on bare metal or RTOS. Comfortable bringing ideas from schematic to tested hardware with Altium Designer and solid lab/debug practices (oscilloscope, logic analyzer, JTAG/SWD). Currently learning Rust for embedded to deepen reliability and safety.",
     "location": {
-      "address": "10127 Laker Ln.",
+      "address": "",
       "postalCode": "49401",
       "city": "Allendale",
       "countryCode": "US",
