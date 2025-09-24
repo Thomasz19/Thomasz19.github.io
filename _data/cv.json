@@ -57,14 +57,14 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2025",
-      "gpa": null,
+      "gpa": "3.5",
       "courses": []
     }
   ],
   "skills": [
   {
     "name": "Programming Languages",
-    "keywords": ["Embedded C", "Python", "Verilog", "VHDL"]
+    "keywords": ["C/C++", "Python", "Verilog", "VHDL"]
   },
   {
     "name": "Embedded Systems & Tools",
@@ -117,7 +117,7 @@
     "name": "Vending Machine",
     "publisher": "Embedded Systems",
     "releaseDate": "2022-12-12",
-    "website": "http://academicpages.github.io/files/EGR226Project.pdf",
+    "website": "files/EGR226Project.pdf",
     "summary": "Built a vending machine using the STM32F446RE microcontroller with coin detection, keypad input, LCD display, servo motors, and a secure admin system. Integrated custom state machine logic and hardware interface design."
   },
   {
