@@ -8,7 +8,7 @@ date: 2025-03-20
 venue: 'EGR 426 Project 2, Grand Valley State University'
 slidesurl: ''
 paperurl: ''
-citation: 'Thomas Zoldowski, Izik Janusz. (2025). "Frog Flap FPGA Game Emulator." <i>GVSU EGR 426 Project Report</i>.'
+citation: null
 ---
 
 Frog Flap is a real-time game emulator designed on a Spartan-7 FPGA, inspired by the Frog Flapper game from the Wario Party series. The system produces 640x480 HDMI video output by generating VGA signals internally and converting them to HDMI using a Real Digital HDMI IP core.

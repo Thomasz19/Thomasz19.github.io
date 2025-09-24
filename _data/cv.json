@@ -124,7 +124,7 @@
     "name": "Karaoke Machine",
     "publisher": "Analog Circuit Design",
     "releaseDate": "2024-12-04",
-    "website": "files/EGR315Project.pdf",
+    "website": "/files/EGR315Project.pdf",
     "summary": "Designed a stereo karaoke audio system using analog components, including op-amps, microphone preamps, audio mixing circuits, and power amplifiers. Created custom speaker housings and tested full system performance.",
     "award": "Selected for Project Day showcase (1 of 2 projects selected by class vote)."
   },
@@ -132,14 +132,14 @@
     "name": "Digital Monster Pet",
     "publisher": "Embedded Systems & UI Design",
     "releaseDate": "2024-11-17",
-    "website": "http://academicpages.github.io/files/EGR326Project.pdf",
+    "website": "/files/EGR326Project.pdf",
     "summary": "Developed a standalone virtual pet using the STM32F446RE microcontroller, RTC, sensors, and a graphical LCD. Simulated emotional states and health logic using embedded firmware, with EEPROM-based data retention."
   },
   {
     "name": "Frog Flap FPGA Game Emulator",
     "publisher": "FPGA Graphics & Game Logic",
     "releaseDate": "2025-03-20",
-    "website": "http://academicpages.github.io/files/EGR426Project.pdf",
+    "website": "/files/EGR426Project.pdf",
     "summary": "Created a sprite-based game emulator on a Spartan-7 FPGA with HDMI output, randomized object generation, layered animation, collision detection, and synthesized audio playback using logic modules and IP cores.",
     "award": "Selected for Project Day showcase (1 of 2 projects selected by class vote)."
   },
@@ -147,7 +147,7 @@
     "name": "Shot Counter System",
     "publisher": "Embedded Systems & PCB Design",
     "releaseDate": "2025-04-18",
-    "website": "http://academicpages.github.io/files/EGR436Project.pdf",
+    "website": "/files/EGR436Project.pdf",
     "summary": "Designed a compact shot counter with custom 6-layer ENIG PCB, OLED display, and piezo knock sensor using the STM32F103 microcontroller. Enabled real-time tracking and menu-based interaction with over 7 hours of battery life.",
     "award": "Selected for Project Day showcase (1 of 2 projects selected by class vote)."
   }

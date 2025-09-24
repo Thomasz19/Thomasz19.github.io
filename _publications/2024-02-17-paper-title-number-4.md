@@ -7,8 +7,8 @@ excerpt: 'An interactive embedded system simulating a virtual pet with emotional
 date: 2024-11-17
 venue: 'EGR 326 Final Project, Grand Valley State University'
 #slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/EGR326Project.pdf'
-citation: 'Thomas Zoldowski, Emmett Topp. (2024). "Digital Monster Pet Embedded System." <i>GVSU EGR 326 Final Report</i>.'
+paperurl: '/files/EGR326Project.pdf'
+citation: null
 ---
 
 The Digital Monster Pet is an autonomous embedded system built on the STM32F446 Nucleo board that simulates a virtual pet capable of reacting to user interaction, tracking its health, and expressing emotional states. The system integrates multiple hardware peripherals, including a graphic LCD, Hall effect sensor, proximity sensor, real-time clock (RTC), rotary encoder, stepper motor, and speaker.

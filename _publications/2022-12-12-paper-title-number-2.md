@@ -7,7 +7,7 @@ excerpt: 'An embedded vending machine built on STM32F446RE with coin detection, 
 date: 2022-12-12
 venue: 'EGR 226 Final Project, Grand Valley State University'
 #slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/EGR326Project.pdf'
+paperurl: '/files/EGR326Project.pdf'
 citation:  null
 skills_used:
   - STM32F446RE Microcontroller

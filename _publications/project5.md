@@ -7,8 +7,8 @@ excerpt: 'A compact shot tracking device built with a custom 6-layer PCB, STM32 
 date: 2025-04-18
 venue: 'EGR 436 Design Project, Grand Valley State University'
 #slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/EGR436Project'
-citation: 'Thomas Zoldowski, Lucas Meyers. (2025). "Shot Counter with Custom PCB and Embedded System." <i>GVSU EGR 436 Final Report</i>.'
+paperurl: '/files/EGR436Project'
+citation: null
 ---
 
 The Shot Counter is a low-power, embedded system designed to detect and display firearm shot counts using a piezoelectric knock sensor and OLED screen. Powered by a 300mAh Li-ion battery, the device operates for over 7 hours and is built around the STM32F103CBT6 microcontroller.
