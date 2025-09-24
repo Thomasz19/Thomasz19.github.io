@@ -8,7 +8,7 @@ date: 2022-12-12
 venue: 'EGR 226 Final Project, Grand Valley State University'
 #slidesurl: ''
 paperurl: 'http://academicpages.github.io/files/EGR326Project.pdf'
-citation: 'Thomas Zoldowski. (2022). "Microcontroller-Based Vending Machine." <i>GVSU EGR 226 Final Report</i>.'
+citation:  null
 skills_used:
   - STM32F446RE Microcontroller
   - Embedded C

@@ -15,8 +15,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Thomasz19",
+        "url": "https://github.com/Thomasz19"
       }
     ]
   },
@@ -117,14 +117,14 @@
     "name": "Vending Machine",
     "publisher": "Embedded Systems",
     "releaseDate": "2022-12-12",
-    "website": "files/EGR226Project.pdf",
+    "website": "/files/EGR226Project.pdf",
     "summary": "Built a vending machine using the STM32F446RE microcontroller with coin detection, keypad input, LCD display, servo motors, and a secure admin system. Integrated custom state machine logic and hardware interface design."
   },
   {
     "name": "Karaoke Machine",
     "publisher": "Analog Circuit Design",
     "releaseDate": "2024-12-04",
-    "website": "http://academicpages.github.io/files/EGR315Project.pdf",
+    "website": "files/EGR315Project.pdf",
     "summary": "Designed a stereo karaoke audio system using analog components, including op-amps, microphone preamps, audio mixing circuits, and power amplifiers. Created custom speaker housings and tested full system performance.",
     "award": "Selected for Project Day showcase (1 of 2 projects selected by class vote)."
   },
